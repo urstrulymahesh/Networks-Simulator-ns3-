@@ -10,7 +10,7 @@ Place the files in the scratch directory of your ns3 directory and execute the f
 ./waf run WiredTCP
 ```
 ```
-./waf run Wireless TCP
+./waf run WirelessTCP
 ```
 This will generate plt files for plotting graphs.
 ```
