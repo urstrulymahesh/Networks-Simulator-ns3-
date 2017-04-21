@@ -16,4 +16,4 @@ This will generate plt files for plotting graphs.
 ```
 gnuplot wiredthroughput.plt
 ```
-The above command will generate Plot images.
+The above command will generate Plot image for throughput in wired network. Similarly execute the remaining plt files to generate png plots for others.
